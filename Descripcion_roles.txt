@@ -1,0 +1,6 @@
+ROLES:
+- Desarrollador
+- Analista 
+- Product owner
+- Administrador de BD
+- Scrum master
